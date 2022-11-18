@@ -5,7 +5,9 @@
 
 ## 🚀 About Me
  
-Hi, I'm Athul m k  I'm a Python developer...
+Hi, I'm Athul m k
+
+I'm a Python developer...
 
 
 
